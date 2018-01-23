@@ -1,5 +1,5 @@
 # Introduction
-Getting into crypto wild west is full of traps. Companies will try to catch you early and squeeze money out of you. I did some mistakes while learning and also friends showed the need of this list. Consider it as your drivers license for cryptos. For sure it will grow over time :)
+Getting into crypto wild west is full of traps. Companies and more experienced people will try to catch you early and squeeze money out of you. I did some mistakes while learning and also friends showed the need of this list. Consider it as your drivers license for cryptos. For sure it will grow over time :)
 
 ## Handling cryptos
 This is a crucial point for me. Learn how to handle cryptos! It will help you alot while learning. **If you do a new step for first time make sure you test it with a small amount.**
