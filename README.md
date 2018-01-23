@@ -1,4 +1,4 @@
-<script type="text/javascript" src="./scripts/script.js"></script>
+<script type="text/javascript" src="./scripts/scripts.js"></script>
 <button onClick="hello()">run Test</button>
 
 # Introduction
