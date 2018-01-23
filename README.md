@@ -1,3 +1,6 @@
+<script type="text/javascript" src="./scripts/script.js"></script>
+<button onClick="hello()">run Test</button>
+
 # Introduction
 Getting into crypto wild west is full of traps. Companies and more experienced people will try to catch you early and squeeze money out of you.
 
