@@ -1,5 +1,5 @@
 # Introduction
-Getting into crypto currencies is full of traps. I did some mistakes while learning and also talking to friends showed me the need to avoid stupid mistakes which cost me some money. This page will grow over time :)
+Getting into crypto wild west is full of traps. I did some mistakes while learning and also friends showed the need of this list. This page will grow over time :)
 
 # Wallets
 - never create seeds (your private key) with an online service 
