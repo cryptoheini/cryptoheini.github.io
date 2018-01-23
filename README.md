@@ -2,7 +2,7 @@
 <button onClick="hello()">run Test</button>
 
 
-<div style="background-color: red">
+<div style="color: red">
 test
 </div>
 
