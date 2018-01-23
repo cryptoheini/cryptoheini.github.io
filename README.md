@@ -1,5 +1,5 @@
 # Introduction
-Getting into crypto wild west is full of traps. I did some mistakes while learning and also friends showed the need of this list. This page will grow over time :)
+Getting into crypto wild west is full of traps. I did some mistakes while learning and also friends showed the need of this list. Consider it as your drivers license for cryptos. For sure it will grow over time :)
 
 ## Handling cryptos
 ### What you know
