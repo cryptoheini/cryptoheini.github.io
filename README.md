@@ -17,6 +17,7 @@ The crypto world is not so different to what you already know. You are able to o
 
 # Exchanges
 - never use platforms where you can only buy in with USD/EURO/... and buy crypto currencies but don't allow you to transfer to other platforms (so you will first need to sell again to USD/EURO/... and then deposit to the new service). An example for this it the etoro platform. They catched many of my friends.
+- If you want to get a special coin check the withdraw fees for that coins on different exchanges. Some exchanges have ridiculous fees on withdraw.
 - you do not own the coins because you do not own the private keys
 - bever leave big amounts of coins laying around on exchanges
 
