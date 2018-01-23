@@ -1,17 +1,4 @@
-<script type="text/javascript" src="./scripts/scripts.js"></script>
-<button onClick="hello()">run Test</button>
-
-
-<div class="panel warning">
-some random text
-
-``` json
-{
-"att1": "val1",
-"att2": "val2"
-}
-```
-</div>
+<script type="text/javascript" src="https://raw.github.com/cryptoheini/cryptoheini.github.io/master/scripts/scripts.js"></script>
 
 # Introduction
 Getting into crypto wild west is full of traps. Companies and more experienced people will try to catch you early and squeeze money out of you.
