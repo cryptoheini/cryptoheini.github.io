@@ -2,8 +2,15 @@
 <button onClick="hello()">run Test</button>
 
 
-<div style="color: red">
-test
+<div class="panel warning">
+some random text
+
+``` json
+{
+"att1": "val1",
+"att2": "val2"
+}
+```
 </div>
 
 # Introduction
