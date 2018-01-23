@@ -3,6 +3,10 @@ Getting into crypto wild west is full of traps. Companies and more experienced p
 
 I did some mistakes while learning and also friends showed the need of this list. **Consider it as your drivers licence for cryptos**. For sure it will grow over time as I still make mistakes along the path :)
 
+# Valuation
+- Many beginners think that a coin with a low price can reach the price of bitcoin and see big profits coming. You need to learn that a coin is valued by the total number of created coins multiplied by the current price. This results in the different ranking. For example ripple has a much larger supply than bitcoin and therefor is traded at a much lower price.
+- If you visit a site like [coinmarketcap.com](coinmarketcap.com) or [worldcoinindex.com](worldcoinindex.com) the price is shown differently. The reason behind this is that at different exchanges the price is different for a coin. Different listing pages include different exchanges and have a different update frequency. They calculate the average and the result is a different price.
+
 # Handling cryptos
 This is a crucial point for me. Learn how to handle cryptos! 
 
