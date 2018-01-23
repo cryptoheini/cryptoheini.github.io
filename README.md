@@ -11,7 +11,7 @@ When you were young you (hopefully) learned how to deal with money. You got a ba
 The crypto world is not so different to what you already know. You are able to open accounts quite easy (this is your address) and you can access it via a secret ("private key"). With your secret you can send around money between exchanges and some shops will make paymants via crypto available to purchase items.
 
 # Trading
-- I suggest to not trade crypto currencies. This is hard and most likely you will loose some money doing it. The profits from advanced traders will come from beginners like you :)
+- For beginners I suggest to not trade crypto currencies. This is hard and most likely you will loose some money doing it. The profits from advanced traders will come from beginners like you :)
 - Every trade could be a taxable event. Please make sure you document every trade (losses/profits) and know what kind of taxes you need to pay for it.
 
 # Wallets
