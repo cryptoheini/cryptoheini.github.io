@@ -3,9 +3,7 @@
 
 
 <div class="toggle-hide">
-## Hidden section
-
-A hidden paragraph.
+test
 </div>
 
 # Introduction
