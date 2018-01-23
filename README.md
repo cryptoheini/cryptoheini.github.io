@@ -7,8 +7,10 @@ I did some mistakes while learning and also friends showed the need of this list
 This is a crucial point for me. Learn how to handle cryptos! 
 
 - **If you try a new step for first time make sure you test it with a small amount**
-- Learn how to send coins around exchanges (make sure you do not pay large fees)
-- Learn how to recover your wallet from the saved private key
+- Send some coins from one exchange to anouther. Make sure you do not pay large fees.
+- Install a desktop wallet for your coin. **Learn how to backup the private key before sending coins to it.**
+- Recover your wallet from the saved private key. E.g. install the wallet on a different computer and enter the private key there!
+- Send some coins from an exchange to your wallet.
 
 # Trading
 - For beginners I suggest to not trade crypto currencies. This is hard and most likely you will loose some money doing it. The profits from advanced traders will come from beginners like you :)
