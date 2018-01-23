@@ -1,6 +1,13 @@
 <script type="text/javascript" src="./scripts/scripts.js"></script>
 <button onClick="hello()">run Test</button>
 
+
+<div class="toggle-hide">
+## Hidden section
+
+A hidden paragraph.
+</div>
+
 # Introduction
 Getting into crypto wild west is full of traps. Companies and more experienced people will try to catch you early and squeeze money out of you.
 
