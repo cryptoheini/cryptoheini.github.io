@@ -1,6 +1,6 @@
 # Introduction
 
-<script src="scripts/scripts.js" type="text/javascript"></script>
+<script src="https://rawgit.com/cryptoheini/cryptoheini.github.io/master/scripts/scripts.js" type="text/javascript"></script>
 
 Getting into crypto wild west is full of traps. Companies and more experienced people will try to catch you early and squeeze money out of you.
 
