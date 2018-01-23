@@ -2,7 +2,7 @@
 Getting into crypto wild west is full of traps. I did some mistakes while learning and also friends showed the need of this list. This page will grow over time :)
 
 # Trading
-- I suggest to not trade crypto currencies. This is hard and most likely you will loose some money doing it. The profits from pros will come from beginners :)
+- I suggest to not trade crypto currencies. This is hard and most likely you will loose some money doing it. The profits from advanced traders will come from beginners :)
 
 # Wallets
 - never create seeds (your private key) with an online service 
